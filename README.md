@@ -27,7 +27,7 @@ ox_target
 - Edit config
 
 ### Extra Information
-- 
+- Translation by PanNapisal#3444
 
 ## Preview
 - Soon
